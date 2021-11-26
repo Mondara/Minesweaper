@@ -2,10 +2,10 @@
   "name": "current-project",
   "version": "1.0.0",
   "description": "",
-  "main": "minesweeper.js",
+  "main": "src/minesweeper.js",
   "scripts": {
     "build": "parcel build index.html",
-    "start": "parcel index.html",
+    "start": "parcel src/index.html",
     "test": "jest --coverage",
     "cy:open": "cypress open",
     "test:e2e": "start-server-and-test start http://localhost:1234 cy:open"
