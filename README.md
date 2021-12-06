@@ -40,7 +40,7 @@ The project also has both unit tests, built using Jest testing library with 100%
 
 ### Screenshot
 
-![](./Minesweeper.jpg)
+![](./Minesweeper.png)
 
 ### Links
 
