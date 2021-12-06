@@ -44,7 +44,7 @@ The project also has both unit tests, built using Jest testing library with 100%
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://minesweeper-mt.netlify.app/)
 
 ## My process
 
