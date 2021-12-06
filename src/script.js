@@ -16,7 +16,7 @@ if(process.env.NODE_ENV !== 'production' && window.testBoard) {
 }
 
 const BOARD_SIZE = testBoard?.length ?? 10
-const NUMBER_OF_MINES = testBoard?.flat().filter(t => t.mine).length ?? 3
+const NUMBER_OF_MINES = testBoard?.flat().filter(t => t.mine).length ?? 10
 
 let board = testBoard ?? createBoard(
   BOARD_SIZE,
